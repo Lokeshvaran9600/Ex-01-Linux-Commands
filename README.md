@@ -1,8 +1,8 @@
 # Ex-01-Linux-Commands
-##Name: LOKESHVARAN S
+## Name: LOKESHVARAN S
 
 
-##Reg no:212223040105
+## Reg no:212223040105
 
 
 ## Aim:
